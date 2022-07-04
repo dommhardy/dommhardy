@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dommhardy
-- 👀 I’m interested in game design, coding, and 3d art. 
+- 👀 I’m interested in game design, coding, and 3d art. Dream job at some point would be Technical Artist.
 - 🌱 I’m currently learning Unreal 5, C++ and Blueprints, and Blender.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
